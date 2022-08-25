@@ -1,2 +1,5 @@
 # ARM_CPU
-File could be imported to ISSIS
+Dual Core CPU ----- ISSIS Base
+Supporting Floating-point multiplication combinatorially or Sequencially.
+Uart
+
